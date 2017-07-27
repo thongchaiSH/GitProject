@@ -1,8 +1,6 @@
+cd ~
+cd GitProject
 git add .
 git commit -m '1'
 git push origin master
-thongchai.sh@rmuti.ac.th
-a0487682596
-
-
 
